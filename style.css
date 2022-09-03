@@ -1,0 +1,27 @@
+body
+{
+   background-color: grey;
+}
+/* element selector
+class selector
+id selector
+universal selector
+pseudo class selector
+pseudo element selector */
+.text
+{
+   color: red;
+   font-size: 100px;
+}
+#learn
+{
+   color: blueviolet;
+}
+.lines
+{
+   background-color: aqua;
+}
+*
+{
+   background-color: green;
+}
